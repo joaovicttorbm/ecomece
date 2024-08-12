@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
-import SliderItem from './components/Hero/SliderItem'
 
 
 function App() {
